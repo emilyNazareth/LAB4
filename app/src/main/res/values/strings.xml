@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LAB_4</string>
+    <string name="main_title">Test de COVID-19</string>
+    <string name="insert_name">Ingrese su nombre</string>
+    <string name="temperature">Fiebre</string>
+    <string name="cough">Tos</string>
+    <string name="migraine">Migraña</string>
+    <string name="fatigue">Fatiga</string>
+    <string name="loss_smell">Pérdida de olfato</string>
+    <string name="loss_taste">Pérdida de gusto</string>
+    <string name="send_information">Enviar Información</string>
+    <string name="send_picture">Enviar Fotografía</string>
+    <string name="ON">ON</string>
+    <string name="OF">OFF</string>
+</resources>
